@@ -2,7 +2,6 @@
 
 <div align="center">
 	<a href="https://twitter.com/chieund37"><img height="40" width="40" src="https://raw.githubusercontent.com/chieund/chieund/master/icons/twitter.png"></a>&nbsp; &nbsp;
-	<a href="https://www.facebook.com/chieund.fat"><img height="40" width="40" src="https://raw.githubusercontent.com/chieund/chieund/master/icons/facebook.png"></a>&nbsp; &nbsp;
 	<a href="mailto:chieund.fat@gmail.com"><img height="40" width="40" src="https://raw.githubusercontent.com/chieund/chieund/master/icons/gmail.png"></a>&nbsp; &nbsp;
 	<a href="https://github.com/chieund"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"></a>&nbsp; &nbsp;
 </div>
